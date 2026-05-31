@@ -2,6 +2,10 @@
 
 A responsive React.js authentication application built with Tailwind CSS. The project includes a Landing Page, Login Page, Create Account Page, Account Settings Page, and Logout functionality.
 
+Try it on - educasepopxam.netlify.app
+
+
+
 ## Features
 
 * User Registration
